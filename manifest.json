@@ -1,8 +1,8 @@
 {
-  "name": "graphql-example",
-  "vendor": "vtex",
-  "version": "0.2.2",
-  "title": "GraphQL Example",
+  "name": "order-history",
+  "vendor": "sbdsefuat",
+  "version": "0.0.1",
+  "title": "Order History Backend",
   "description": "Reference app for VTEX IO GraphQL Services",
   "mustUpdateAt": "2022-01-04",
   "categories": [],

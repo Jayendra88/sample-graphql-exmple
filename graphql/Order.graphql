@@ -1,0 +1,11 @@
+type Order {
+  orderId: String
+  orderTotal: String
+  items: [Item]
+}
+
+type Item {
+  itemId: String
+  name: String
+  price: String
+}
